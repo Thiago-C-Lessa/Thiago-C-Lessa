@@ -1,16 +1,50 @@
-<h3 align="center">A Computer science studant from Brazil</h3>
+# Hi! I'm Thiago Lessa 👋
 
-- 🔭 I’m currently working on [Loja-de-Jogos](https://github.com/Thiago-C-Lessa/Loja-de-jogos)
+I'm a Computer Science student with experience in various programming languages and technologies. I’m always looking to learn more and improve my skills.
 
-- 🌱 I’m currently learning **Go**
+## 🌱 Technologies and Languages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thiago-lessa-9424831ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago lessa" height="30" width="40" /></a>
-</p>
+- **Languages**: JavaScript, Go, C, Python
+- **Frameworks & Libraries**: React, Node.js, Bootstrap
+- **Databases**: MongoDB, MySQL
+- **Tools & Other Technologies**: Matlab, Docker (if applicable)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📚 Current Learnings
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-c-lessa&show_icons=true&locale=en&layout=compact" alt="thiago-c-lessa" /></p>
+- I’m learning **Go** and expanding my knowledge in backend development.
 
+## 🧑‍💻 Projects
+
+Here are some of the projects I’m developing or have completed:
+
+**- [Loja-de-jogos](https://github.com/Thiago-C-Lessa/Loja-de-jogos):  🕹️ Game Store Website**
+
+This is a web application for a game store, developed as part of a programming course project. The website allows users to browse and purchase video games. It includes both frontend and backend components, built using **React** for the frontend and **Node.js** for the backend.
+
+Key features:
+- User authentication and authorization
+- Product catalog with detailed game descriptions
+- Shopping cart and checkout functionality
+- Integration with payment services (if applicable)
+
+The project showcases full-stack web development skills, with a focus on building dynamic and responsive user interfaces.
+
+**- [CLI-Previsão-Clima](https://github.com/Thiago-C-Lessa/CLI-Previsao-Clima): ## 🌤️ Weather Forecast CLI**
+
+This is a Command Line Interface (CLI) program written in **Go** that provides weather forecasts for the upcoming hours. When called from the terminal, the program fetches and displays real-time weather data for a specified location, including temperature, humidity, and weather conditions.
+
+Key features:
+- Real-time weather updates for the next few hours
+- Simple CLI interface
+- Fetches data from a weather API (if applicable)
+
+This project demonstrates skills in building CLI applications and working with external APIs in Go.
+
+
+## 📩 Let's Connect!
+
+You can find me on the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/thiago-lessa-9424831ba/)
+
+Thank you for visiting my profile! 🚀
