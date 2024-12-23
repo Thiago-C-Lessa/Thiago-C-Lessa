@@ -7,7 +7,7 @@ I'm a Computer Science student with experience in various programming languages 
 - **Languages**: JavaScript, Go, C, Python
 - **Frameworks & Libraries**: React, Node.js, Bootstrap
 - **Databases**: MongoDB, MySQL
-- **Tools & Other Technologies**: Matlab, Docker (if applicable)
+- **Tools & Other Technologies**: Matlab
 
 ## 📚 Current Learnings
 
