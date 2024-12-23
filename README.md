@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiago lessa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago lessa" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/thiago lessa](https://www.linkedin.com/in/thiago-lessa-9424831ba/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago lessa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
